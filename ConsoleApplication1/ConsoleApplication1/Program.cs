@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello world");
             //
+            Console.WriteLine("change1 in 7");
         }
     }
 }
